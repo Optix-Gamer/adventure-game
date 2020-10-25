@@ -66,7 +66,11 @@ The following packages were updated:
 The following packages were removed:
   com.unity.package-manager-ui@2.0.8
 
+<<<<<<< HEAD
 === Sat Oct 24 17:13:26 2020
+=======
+=== Sat Oct 24 16:42:17 2020
+>>>>>>> b15ae0b452573a78ff016f6507095272ad6f1683
 
 Packages were changed.
 Update Mode: updateDependencies
